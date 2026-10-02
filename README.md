@@ -16,7 +16,7 @@ Python 3, Flask, SQLite (`sqlite3`), Pandas, unittest, Git/GitHub
 
 ## Setup
 ```bash
-git clone https://github.com/rajendra-pal/job-tracker-api.git
+git clone https://github.com/rajendra-pal/Personal-Job-Tracker.git
 cd job-tracker-api
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
